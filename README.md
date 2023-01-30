@@ -18,20 +18,3 @@ module "app" {
 
 ### Parameters
  - `platform` (required) - predefined platform configuration (the output of the `platform` module)
-
- <embed src=
-"D:\OneDrive - Genpact\Genpact Data\H1B\initial\Resume.pdf" 
-               width="800"
-               height="500">
-
-<iframe src=
-"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210101201653/PDF.pdf" 
-                width="800" 
-                height="500">
-        </iframe>
-
-<object data=
-"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210101201653/PDF.pdf" 
-                width="800" 
-                height="500"> 
-        </object>
