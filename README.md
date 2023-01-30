@@ -19,4 +19,6 @@ module "app" {
 ### Parameters
  - `platform` (required) - predefined platform configuration (the output of the `platform` module)
  
-![Model View Controller](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210101201653/PDF.pdf)
+![Model View Controller]()
+
+\includepdf[pages=-]{https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210101201653/PDF.pdf}
