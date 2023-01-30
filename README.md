@@ -18,3 +18,5 @@ module "app" {
 
 ### Parameters
  - `platform` (required) - predefined platform configuration (the output of the `platform` module)
+ - 
+[embed]https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210101201653/PDF.pdf[/embed]
